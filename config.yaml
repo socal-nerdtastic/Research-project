@@ -1,0 +1,117 @@
+- image_file: images/003059_07_01_400.jpg
+  shapes:
+    - name: red_balloon
+      top: 111
+      bottom: 227
+      left: 30
+      right: 162
+      is_target: True
+    - name: green_balloon
+      top: 19
+      bottom: 209
+      left: 157
+      right: 213
+      is_target: False
+    - name: yellow_balloon
+      top: 115
+      bottom: 304
+      left: 213
+      right: 353
+      is_target: False
+    - name: blue_balloon
+      top: 233
+      bottom: 382
+      left: 25
+      right: 188
+      is_target: False
+- image_file: images/003426_01_01_011.jpg
+  shapes:
+    - name: hippo
+      top: 50
+      bottom: 217
+      left: 42
+      right: 241
+      is_target: True
+    - name: tiger
+      top: 35
+      bottom: 237
+      left: 237
+      right: 406
+      is_target: False
+    - name: flamingo
+      top: 39
+      bottom: 227
+      left: 410
+      right: 568
+      is_target: False
+    - name: koala
+      top: 275
+      bottom: 452
+      left: 20
+      right: 214
+      is_target: False
+- image_file: images/003038_05_01_063.jpg
+  shapes:
+    - name: hippo
+      top: 50
+      bottom: 217
+      left: 42
+      right: 241
+      is_target: True
+    - name: tiger
+      top: 35
+      bottom: 237
+      left: 237
+      right: 406
+      is_target: False
+    - name: flamingo
+      top: 39
+      bottom: 227
+      left: 410
+      right: 568
+      is_target: False
+    - name: koala
+      top: 275
+      bottom: 452
+      left: 20
+      right: 214
+      is_target: False
+- image_file: images/002701_04_03_160.jpg
+  shapes:
+    - name: hippo
+      top: 50
+      bottom: 217
+      left: 42
+      right: 241
+      is_target: True
+    - name: tiger
+      top: 35
+      bottom: 237
+      left: 237
+      right: 406
+      is_target: False
+    - name: flamingo
+      top: 39
+      bottom: 227
+      left: 410
+      right: 568
+      is_target: False
+    - name: koala
+      top: 275
+      bottom: 452
+      left: 20
+      right: 214
+      is_target: False
+
+
+
+
+
+
+
+
+
+
+
+
+      
